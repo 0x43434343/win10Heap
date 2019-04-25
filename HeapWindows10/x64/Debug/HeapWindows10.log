@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  HeapWindows10.cpp
+c:\users\lab\desktop\heapwindows10\heapwindows10\heapwindows10.cpp(54): warning C4715: 'Heap::fillAllocation': not all control paths return a value
+  HeapWindows10.vcxproj -> C:\Users\lab\Desktop\HeapWindows10\x64\Debug\HeapWindows10.exe
